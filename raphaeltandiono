@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raphael Tandiono - Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Raphael Tandiono</h1>
+        <p>Email: <a href="mailto:r.tandiono.2023@cis.smu.edu.sg">r.tandiono.2023@cis.smu.edu.sg</a> | LinkedIn: <a href="https://www.linkedin.com/in/raphael-tandiono-314ab72a8" target="_blank">linkedin.com/in/raphael-tandiono-314ab72a8</a> | Phone: +6580179224</p>
+    </header>
+
+    <section>
+        <h2>Academic Qualification</h2>
+        <p><strong>Singapore Management University (SMU)</strong> | Aug 2023 - Present</p>
+        <ul>
+            <li>B.IS in Inclusive Innovation</li>
+            <li>CGPA: 3.60/4.00, Magna Cum Laude</li>
+            <li>ASEAN Undergraduate Scholarship Recipient</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <p><strong>World Business Council for Sustainable Development (WBCSD)</strong> | Sep 2024 - Present</p>
+        <p>Member Engagement Intern, organizing sustainability events for C-suite executives from over 200 companies globally.</p>
+
+        <p><strong>Poetyque Events & Magna Experiences</strong> | Dec 2022 - Present</p>
+        <p>Project Manager, overseeing large-scale events for high-net-worth clients internationally.</p>
+    </section>
+
+    <section>
+        <h2>Awards & Achievements</h2>
+        <ul>
+            <li>AUN-ITB Summer Camp: Best Presentation, Best Group</li>
+            <li>Singapore Business Case Competition 2024: Champion</li>
+            <li>NUS Political Association Chancellor’s Challenge Shield 2022: 2nd Prize</li>
+            <li>Singapore Youth Leadership Summit 2021: Silver Medal</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Leadership & Activities</h2>
+        <ul>
+            <li>Growth-X, SMU (2024-2025): Member</li>
+            <li>Mentorship Indonesia Singapore Initiatives (MISI): Senior Events Associate</li>
+            <li>ASEAN Youth Organisation: Program Officer</li>
+            <li>AIESEC in Singapore (2024): Associate in Partnership Development</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>Human-Centered Design (University of Illinois)</li>
+            <li>Social Impact Strategy (University of Pennsylvania)</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Raphael Tandiono</p>
+    </footer>
+</body>
+</html>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1rem;
+    color: #555;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+}
+
+p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+    margin-top: 20px;
+    color: #777;
+}
